@@ -1,5 +1,3 @@
-CONTRATO VALENDO! O SPLIT DO GOTAS INDIVIDUAL
-
 // SPDX-License-Identifier: MIT
 // by gotas.social 
 pragma solidity ^0.8.17;
